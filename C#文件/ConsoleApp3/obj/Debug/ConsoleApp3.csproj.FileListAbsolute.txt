@@ -1,0 +1,8 @@
+D:\VS文件\C#文件\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\VS文件\C#文件\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\VS文件\C#文件\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\VS文件\C#文件\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\VS文件\C#文件\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\VS文件\C#文件\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\VS文件\C#文件\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\VS文件\C#文件\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

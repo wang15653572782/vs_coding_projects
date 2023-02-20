@@ -1,0 +1,14 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  源.cpp
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(23,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(63,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(95,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(95,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(95,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(95,11): message : 此参数用作缓冲区大小
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(100,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(100,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(100,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(100,11): message : 此参数用作缓冲区大小
+D:\VS文件\网站功能提升（字典树）\网站功能提升（字典树）\源.cpp(87,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  网站功能提升（字典树）.vcxproj -> D:\VS文件\网站功能提升（字典树）\x64\Debug\网站功能提升（字典树）.exe

@@ -1,0 +1,6 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  源.cpp
+D:\VS文件\手撕红黑树\源.cpp(148,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS文件\手撕红黑树\源.cpp(153,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS文件\手撕红黑树\源.cpp(154,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  手撕红黑树.vcxproj -> D:\VS文件\手撕红黑树\x64\Debug\手撕红黑树.exe

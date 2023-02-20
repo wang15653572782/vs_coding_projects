@@ -1,0 +1,5 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  源.cpp
+D:\VS文件\自动纠错\自动纠错\源.cpp(7,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS文件\自动纠错\自动纠错\源.cpp(8,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  自动纠错.vcxproj -> D:\VS文件\自动纠错\x64\Debug\自动纠错.exe

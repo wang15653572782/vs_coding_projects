@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二分查找", "二分查找.vcxproj", "{F5F05DD6-AFD9-40F6-AEC3-18071D53320F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F05DD6-AFD9-40F6-AEC3-18071D53320F}.Debug|x64.ActiveCfg = Debug|x64
+		{F5F05DD6-AFD9-40F6-AEC3-18071D53320F}.Debug|x64.Build.0 = Debug|x64
+		{F5F05DD6-AFD9-40F6-AEC3-18071D53320F}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5F05DD6-AFD9-40F6-AEC3-18071D53320F}.Debug|x86.Build.0 = Debug|Win32
+		{F5F05DD6-AFD9-40F6-AEC3-18071D53320F}.Release|x64.ActiveCfg = Release|x64
+		{F5F05DD6-AFD9-40F6-AEC3-18071D53320F}.Release|x64.Build.0 = Release|x64
+		{F5F05DD6-AFD9-40F6-AEC3-18071D53320F}.Release|x86.ActiveCfg = Release|Win32
+		{F5F05DD6-AFD9-40F6-AEC3-18071D53320F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C800D4-BE51-44C2-8750-61EB5C4C6985}
+	EndGlobalSection
+EndGlobal

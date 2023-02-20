@@ -1,0 +1,6 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(假币问题.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  假币问题.cpp
+  熄灯问题.cpp
+  正在生成代码...
+熄灯问题.obj : error LNK2005: _main 已经在 假币问题.obj 中定义
+D:\VS文件\假币问题\Debug\枚举.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

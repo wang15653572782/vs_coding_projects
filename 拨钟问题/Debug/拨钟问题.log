@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\VS文件\拨钟问题\源.cpp(15,34): warning C4101: “i8”: 未引用的局部变量
+  拨钟问题.vcxproj -> D:\VS文件\拨钟问题\Debug\拨钟问题.exe

@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\VS文件\子集和\源.cpp(55,6): warning C4101: “j”: 未引用的局部变量
+D:\VS文件\子集和\源.cpp(32): warning C4715: “save::operator<”: 不是所有的控件路径都返回值
+  子集和.vcxproj -> D:\VS文件\子集和\x64\Debug\子集和.exe

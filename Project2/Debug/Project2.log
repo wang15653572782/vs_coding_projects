@@ -1,0 +1,16 @@
+﻿  源.cpp
+D:\VS文件\Project2\源.cpp(3,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\VS文件\Project2\源.cpp(3,8): error C2146: 语法错误: 缺少“;”(在标识符“Person”的前面)
+D:\VS文件\Project2\源.cpp(3,14): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\VS文件\Project2\源.cpp(3,14): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\VS文件\Project2\源.cpp(42,2): error C2065: “Person”: 未声明的标识符
+D:\VS文件\Project2\源.cpp(42,9): error C2146: 语法错误: 缺少“;”(在标识符“p1”的前面)
+D:\VS文件\Project2\源.cpp(42,9): error C3861: “p1”: 找不到标识符
+D:\VS文件\Project2\源.cpp(44,2): error C2065: “Person”: 未声明的标识符
+D:\VS文件\Project2\源.cpp(44,9): error C2146: 语法错误: 缺少“;”(在标识符“p2”的前面)
+D:\VS文件\Project2\源.cpp(44,12): error C2065: “p1”: 未声明的标识符
+D:\VS文件\Project2\源.cpp(44,9): error C3861: “p2”: 找不到标识符
+D:\VS文件\Project2\源.cpp(46,31): error C2065: “p1”: 未声明的标识符
+D:\VS文件\Project2\源.cpp(46,61): error C2065: “p1”: 未声明的标识符
+D:\VS文件\Project2\源.cpp(48,31): error C2065: “p2”: 未声明的标识符
+D:\VS文件\Project2\源.cpp(48,61): error C2065: “p2”: 未声明的标识符

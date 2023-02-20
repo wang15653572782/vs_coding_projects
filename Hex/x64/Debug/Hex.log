@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\VS文件\Hex\源.cpp(70): warning C4715: “turn”: 不是所有的控件路径都返回值
+  Hex.vcxproj -> D:\VS文件\Hex\x64\Debug\Hex.exe

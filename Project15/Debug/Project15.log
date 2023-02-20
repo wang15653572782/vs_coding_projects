@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\VS文件\Project15\源.cpp(26,31): warning C4305: “=”: 从“__int64”到“int”截断
+D:\VS文件\Project15\源.cpp(26,28): warning C4309: “=”: 截断常量值
+D:\VS文件\Project15\源.cpp(30,17): warning C4305: “初始化”: 从“__int64”到“int”截断
+D:\VS文件\Project15\源.cpp(30,14): warning C4309: “初始化”: 截断常量值
+D:\VS文件\Project15\源.cpp(23,48): warning C4101: “m”: 未引用的局部变量
+D:\VS文件\Project15\源.cpp(23,50): warning C4101: “mn”: 未引用的局部变量
+  Project15.vcxproj -> D:\VS文件\Project15\Debug\Project15.exe

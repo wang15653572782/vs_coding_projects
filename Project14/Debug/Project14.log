@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\VS文件\Project14\源.cpp(84,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\VS文件\Project14\源.cpp(84,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\VS文件\Project14\源.cpp(84,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\VS文件\Project14\源.cpp(84,10): message : 此参数用作缓冲区大小
+D:\VS文件\Project14\源.cpp(83,16): warning C4101: “y”: 未引用的局部变量
+D:\VS文件\Project14\源.cpp(83,7): warning C4101: “x”: 未引用的局部变量
+  Project14.vcxproj -> D:\VS文件\Project14\Debug\Project14.exe
